@@ -17,7 +17,7 @@ In Azure Portal:
 6. Click 'Create'
 7. Once the deployment is completed-choose 'Go to resource' to view the deployment details
 8. Then under Deployment options, click on 'Deployment Center'-choose GitHub for deployment as we have already saved all our code there
-9. For 1st time users, we need to provide authorization to Azure for connecting to GitHub, and then once authorized, we need to fill in the details. Choose the relevant repository that we want to use & choose 'Finish'
+9. For 1st time users, we need to provide authorization to Azure for connecting to GitHub, and then once authorized, we need to fill in the details. Choose the relevant repository that we want to use & choose 'Save'
 10. Inside the GitHub repository, we have provided the html files for building the webpage while the webapp link is available under the Overview section-URL
 	
 The web-app is hosted at:
